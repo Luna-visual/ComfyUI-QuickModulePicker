@@ -39,4 +39,6 @@ Hotkey can be changed in **Settings → Quick Paste Hotkey**.
 
 ## License
 
-MIT
+Luna-visual Source License (Non-Sale): free to use (including in commercial projects);
+you may not sell this plugin or include it in paid packs without permission.
+See [LICENSE](LICENSE).
