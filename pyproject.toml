@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-quick-module-picker"
+description = "Hold a hotkey to save and paste node selections as reusable snippets. Quick Paste / ComfyUI-QuickModulePicker."
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/Luna-visual/ComfyUI-QuickModulePicker"
+
+[tool.comfy]
+PublisherId = "lunavisual"
+DisplayName = "ComfyUI Quick Paste"
+Icon = ""
