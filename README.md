@@ -2,6 +2,10 @@
 
 Hold a hotkey to save and paste node selections as reusable snippets.
 
+[![ComfyUI Quick Paste introduction](https://img.youtube.com/vi/Z4TXiX9lC5c/maxresdefault.jpg)](https://youtu.be/Z4TXiX9lC5c)
+
+[Watch the introduction on YouTube](https://youtu.be/Z4TXiX9lC5c)
+
 ## Install
 
 **ComfyUI Manager:** search `Quick Paste` / `ComfyUI-QuickModulePicker` (after it is listed).

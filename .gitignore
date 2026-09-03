@@ -6,3 +6,5 @@ snippets.local.json
 *.local.json
 .idea/
 .vscode/
+node.zip
+*.zip
